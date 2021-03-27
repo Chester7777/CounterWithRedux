@@ -1,0 +1,22 @@
+.myDisplay {
+    width: 100%;
+    padding: 20px;
+    background-color: silver;
+    border: 5px solid darkblue;
+    border-radius: 5px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.my_number {
+    size: 100px;
+}
+.my_number_error {
+    size: 50px;
+    color: red;
+}
+
+.word_error {
+    color: red;
+}
+
