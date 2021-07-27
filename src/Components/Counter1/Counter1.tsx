@@ -1,9 +1,7 @@
 import React from "react";
 import s from "./counter1.module.css";
-import style from "../MyButton/MyButton.module.css"
 import {MyDisplay} from "../MyDisplay/MyDisplay";
 import {MyButton} from "../MyButton/MyButton";
-import styles from "../MyButton/MyButton.module.css";
 
 
 type Counter1PropsType = {

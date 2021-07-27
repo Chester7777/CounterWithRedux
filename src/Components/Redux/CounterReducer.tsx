@@ -51,7 +51,7 @@ export function CounterReducer (state = initialState, action: ActionPropsType): 
         case RESET_BUTTON:
             return {
                 ...state,
-                startValue: state.startValue
+                startValue: action.startValue
             }
         case CHANGE_VALUE_MAX:
 
